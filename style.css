@@ -1,0 +1,16 @@
+h2
+  {
+    font-size: 36px;
+    font-samily:franklin gothic medium,cursive;
+    color: #333366;
+    text-align: center;
+    background-color: purple;
+  }
+h3
+  {
+    font-size: 15px;
+    font-family:comic sans ms,courier new;
+    color: skyblue;
+    text-align: right;
+    background-color: yellow;
+  }
